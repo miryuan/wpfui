@@ -91,7 +91,7 @@
         <Setter Property="HorizontalAlignment" Value="Stretch" />
         <Setter Property="Padding" Value="16,4,16,4" />
         <Setter Property="FontSize" Value="12" />
-        <Setter Property="Height" Value="48" />
+        <Setter Property="Height" Value="30" />
         <Setter Property="FontWeight" Value="Normal" />
         <Setter Property="Focusable" Value="False" />
         <Setter Property="VerticalContentAlignment" Value="Stretch" />
